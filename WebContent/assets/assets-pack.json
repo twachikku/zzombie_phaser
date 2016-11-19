@@ -1,0 +1,252 @@
+{
+    "level": [
+        {
+            "type": "json",
+            "key": "actors",
+            "url": "assets/spriter/actors.scon",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "button",
+            "url": "assets/images/button.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "button_attk",
+            "url": "assets/images/button_attk.png",
+            "overwrite": false
+        },
+        {
+            "type": "audio",
+            "key": "music",
+            "urls": ["assets/music/gametheme.ogg"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "sword",
+            "urls": ["assets/sound/sword.ogg"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "zdead1",
+            "urls": ["assets/sound/zdead1.ogg"],
+            "autoDecode": true
+        },
+        {
+            "type": "image",
+            "key": "greenbar",
+            "url": "assets/images/greenbar.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "bg0",
+            "url": "assets/bg/bg0.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "bg2",
+            "url": "assets/bg/bg2.png",
+            "overwrite": false
+        },
+        {
+            "type": "audio",
+            "key": "zombie_1",
+            "urls": ["assets/sound/zombie_1.ogg"],
+            "autoDecode": true
+        },
+        {
+            "type": "audio",
+            "key": "zombie_2",
+            "urls": ["assets/sound/zombie_2.ogg"],
+            "autoDecode": true
+        },
+        {
+            "type": "atlas",
+            "key": "actors_img",
+            "textureURL": "assets/spriter/actors_img.png",
+            "atlasURL": "assets/spriter/actors_img.json",
+            "format": "TEXTURE_ATLAS_JSON_HASH"
+        },
+        {
+            "type": "image",
+            "key": "goal",
+            "url": "assets/images/goal.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "flag",
+            "url": "assets/images/flag.png",
+            "overwrite": false
+        },
+        {
+            "type": "spritesheet",
+            "key": "heal",
+            "url": "assets/images/heart.png",
+            "frameWidth": 32,
+            "frameHeight": 32,
+            "frameMax": -1,
+            "margin": 0,
+            "spacing": 0
+        },
+        {
+            "type": "spritesheet",
+            "key": "tileset",
+            "url": "assets/tilemap/tileset_01.png",
+            "frameWidth": 64,
+            "frameHeight": 64,
+            "frameMax": -1,
+            "margin": 0,
+            "spacing": 0
+        },
+        {
+            "type": "audio",
+            "key": "power",
+            "urls": ["assets/sound/power.ogg"],
+            "autoDecode": true
+        },
+        {
+            "type": "spritesheet",
+            "key": "coin",
+            "url": "assets/images/coin.png",
+            "frameWidth": 32,
+            "frameHeight": 32,
+            "frameMax": -1,
+            "margin": 0,
+            "spacing": 0
+        },
+        {
+            "type": "image",
+            "key": "flash",
+            "url": "assets/images/flash.png",
+            "overwrite": false
+        },
+        {
+            "type": "audio",
+            "key": "ping",
+            "urls": ["assets/sound/ping.ogg"],
+            "autoDecode": true
+        },
+        {
+            "type": "spritesheet",
+            "key": "bg1",
+            "url": "assets/bg/bg1.png",
+            "frameWidth": 150,
+            "frameHeight": 150,
+            "frameMax": -1,
+            "margin": 0,
+            "spacing": 0
+        },
+        {
+            "type": "audio",
+            "key": "hurt",
+            "urls": ["assets/sound/hurt.ogg"],
+            "autoDecode": true
+        },
+        {
+            "type": "spritesheet",
+            "key": "apple",
+            "url": "assets/images/apple.png",
+            "frameWidth": 32,
+            "frameHeight": 32,
+            "frameMax": -1,
+            "margin": 0,
+            "spacing": 0
+        },
+        {
+            "type": "image",
+            "key": "smoke",
+            "url": "assets/images/smoke.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "blood",
+            "url": "assets/images/blood.png",
+            "overwrite": false
+        }
+    ],
+    "start": [
+        {
+            "type": "image",
+            "key": "author",
+            "url": "assets/bg/author.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "zombie",
+            "url": "assets/bg/zombie.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "start",
+            "url": "assets/images/start.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "tools",
+            "url": "assets/images/tools.png",
+            "overwrite": false
+        },
+        {
+            "type": "shader",
+            "key": "bg",
+            "url": "assets/shader/bg.frag",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "home",
+            "url": "assets/images/home.png",
+            "overwrite": false
+        },
+        {
+            "type": "shader",
+            "key": "bg21",
+            "url": "assets/shader/bg2.frag",
+            "overwrite": false
+        }
+    ],
+    "preload": [
+        {
+            "type": "image",
+            "key": "loading",
+            "url": "assets/images/loading.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "key": "logo",
+            "url": "assets/images/logot.png",
+            "overwrite": false
+        }
+    ],
+    "win": [{
+        "type": "image",
+        "key": "win-state",
+        "url": "assets/images/win-state.png",
+        "overwrite": false
+    }],
+    "gameover": [{
+        "type": "image",
+        "key": "gameover",
+        "url": "assets/images/gameover.png",
+        "overwrite": false
+    }],
+    "meta": {
+        "generated": "1479405945585",
+        "app": "Phaser Editor",
+        "url": "http://phasereditor.boniatillo.com",
+        "version": "1.0",
+        "copyright": "Arian Fornaris (c) 2015,2016"
+    }
+}
