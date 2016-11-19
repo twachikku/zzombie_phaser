@@ -7,9 +7,9 @@ This game was created for education purpose in [Basic of Game Programming](http:
 * Android version at https://play.google.com/store/apps/details?id=phaser.game.twachi.zzombie
 
 ### Screen Shots
- <img src="http://202.28.94.41/zombie/scr/web_src01.png" width="400">
- <img src="http://202.28.94.41/zombie/scr/web_src02.png" width="400">
- <img src="http://202.28.94.41/zombie/scr/web_src03.png" width="400">
+ <img src="screen/web_src01.png" width="300"> 
+ <img src="screen/web_src02.png" width="300"> 
+ <img src="screen/web_src03.png" width="300">
  
 ### Tools
 The list of tools are used in this project.
