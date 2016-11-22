@@ -9,9 +9,9 @@ This game was created for education purpose in [Basic of Game Programming](http:
 * Play on iOS at ... coming soon ... 
 
 ### Game Play
-* To Walk  press the arrow keys left or right.
-* To Jump  press the arrow key up.
-* To Attack press the key "X".
+* To Walk, press the arrow keys left or right.
+* To Jump, press the arrow key up.
+* To Attack, press the key "X".
 
 ### Screen Shots
  <img src="screen/web_src01.png" width="300"> 
