@@ -6,6 +6,7 @@ This game was created for education purpose in [Basic of Game Programming](http:
 * Play on Web Browser at http://zombie.devtrainer.net
 * Play on Android at https://play.google.com/store/apps/details?id=phaser.game.twachi.zzombie
 * Play on Chrome OS at https://chrome.google.com/webstore/detail/zzombie/aeoglaffenaokmaamcendeiagkdnadfn
+* Play on Chrome OS at ... coming soon ... 
 
 ### Screen Shots
  <img src="screen/web_src01.png" width="300"> 
@@ -30,7 +31,9 @@ The list of tools are used in this project.
 
 
 ### About
-Wachirawut Thamviset, Ph.D
+<img src='https://avatars2.githubusercontent.com/u/23564815?v=3&s=460' width='120'>
+
+Wachirawut Thamviset, Ph.D 
 
 Department of Computer Science,
 Faculty of Science, Khon Kaen University, Thailand.
