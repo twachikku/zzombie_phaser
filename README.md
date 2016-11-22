@@ -19,6 +19,7 @@ The list of tools are used in this project.
 * [Phaser Editor](http://phasereditor.boniatillo.com/) A friendly IDE for HTML5 games programming.
 * [Tiled](http://www.mapeditor.org/) A Tiled Map Editor
 * [Spriter](https://brashmonkey.com/) 2D sprite animation character creation software.
+* [Audacity](http://www.audacityteam.org/) Audacity is free, open source, audio software for multi-track recording and editing.
 
 ### Game Assets and Arts
 
