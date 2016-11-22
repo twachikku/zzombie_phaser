@@ -5,6 +5,8 @@ This game was created for education purpose in [Basic of Game Programming](http:
 
 * Play on Web at http://zombie.devtrainer.net
 * Android version at https://play.google.com/store/apps/details?id=phaser.game.twachi.zzombie
+* Chrome OS version at https://chrome.google.com/webstore/detail/zzombie/aeoglaffenaokmaamcendeiagkdnadfn
+
 
 ### Screen Shots
  <img src="screen/web_src01.png" width="300"> 
