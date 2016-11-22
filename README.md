@@ -3,10 +3,9 @@
 ZZombie is a side-scrolling action playformer game that is made with [Phaser](http://phaser.io/).  
 This game was created for education purpose in [Basic of Game Programming](http://webclass.devtrainer.net/webclass/learn-home/322218) classroom at Khon Kaen University.
 
-* Play on Web at http://zombie.devtrainer.net
-* Android version at https://play.google.com/store/apps/details?id=phaser.game.twachi.zzombie
-* Chrome OS version at https://chrome.google.com/webstore/detail/zzombie/aeoglaffenaokmaamcendeiagkdnadfn
-
+* Play on Web Browser at http://zombie.devtrainer.net
+* Play on Android at https://play.google.com/store/apps/details?id=phaser.game.twachi.zzombie
+* Play on Chrome OS at https://chrome.google.com/webstore/detail/zzombie/aeoglaffenaokmaamcendeiagkdnadfn
 
 ### Screen Shots
  <img src="screen/web_src01.png" width="300"> 
