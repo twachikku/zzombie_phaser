@@ -3,10 +3,11 @@ Test
 ZZombie is a side-scrolling action platform game that is made with [Phaser](http://phaser.io/).  
 This game was created for education purpose in [Basic of Game Programming](http://webclass.devtrainer.net/webclass/learn-home/322218) classroom at Khon Kaen University.
 
-* Play on Web Browser at http://zombie.devtrainer.net
+* Play on Web Browser at http://www.twachi.net/zombie/ 
 * Play on Android at https://play.google.com/store/apps/details?id=phaser.game.twachi.zzombie
 * Play on Chrome OS at https://chrome.google.com/webstore/detail/zzombie/aeoglaffenaokmaamcendeiagkdnadfn
 * Play on iOS at ... coming soon ... 
+<img src="http://www.twachi.net/webclass/qr.php?code=zombie" width="150"> 
 
 ### Game Play
 * To Walk, press the arrow keys left or right.
